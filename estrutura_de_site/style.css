@@ -1,0 +1,36 @@
+   body
+   {
+background-color: #cd78f5;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+line-height: 1.6;
+width: 1000px;
+ margin: 0 auto;
+ text-align: justify;
+ 
+    }
+    main
+    {
+        
+        
+        display: flex;
+    }
+    article
+    {
+        width: 700px;
+    }
+    section
+    {
+        border-color: #ccc #999 #999 #ccc;
+        border: 1px solid #ccc;
+        margin-bottom: 20px;
+        padding: 10px;
+        background-color: #fff;
+    }
+    aside
+    {
+        background-color: #fffbe4;
+        border: 1px solid  #c9bc8f; 
+        padding: 10px;
+        margin-left: 10px;
+        height: 400px;
+    }
